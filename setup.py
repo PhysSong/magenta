@@ -121,6 +121,7 @@ CONSOLE_SCRIPTS = [
     'magenta.scripts.convert_dir_to_note_sequences',
     'magenta.tensor2tensor.t2t_datagen',
     'magenta.tensor2tensor.t2t_decoder',
+    'magenta.tensor2tensor.t2t_eval',
     'magenta.tensor2tensor.t2t_trainer',
 ]
 # pylint:enable=line-too-long
